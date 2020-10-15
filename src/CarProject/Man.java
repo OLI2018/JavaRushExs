@@ -15,7 +15,7 @@ public class Man {
     man1.dnaCode = 1;
 
     Man man2 = new Man();
-    man2.dnaCode = 1;
+    man2.dnaCode =  1;
 
     System.out.println(man1.equals(man2));
 

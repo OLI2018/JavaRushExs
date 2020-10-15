@@ -6,7 +6,7 @@ public class StringComparison {
 
     String s1 = "Joe";
 
-    String s2 = new String("JOE");
+    String s2 = new String(" JOE");
 
     System.out.println(s1.equalsIgnoreCase(s2));
   }
